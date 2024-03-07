@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente no terceiro semestre de ADS.<br>Estudando JAVA e HTML, iniciante.
+Atualmente no terceiro semestre de ADS.<br>Estudando assuntos adversos do curso, como banco de dados, python e etc.
 
 
 ## 🌐 Socials:
