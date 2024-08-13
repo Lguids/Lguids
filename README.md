@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente no quarto semestre de ADS.<br>Estudando assuntos adversos do curso, como banco de dados, python e etc.
+Atualmente no quarto semestre de ADS.<br>Estudando assuntos diversos do curso, como banco de dados, python e etc.
 
 
 ## 🌐 Socials:
